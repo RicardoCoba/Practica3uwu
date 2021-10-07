@@ -1,0 +1,18 @@
+{
+  "name": "Kukumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chromedriver": "^94.0.0",
+    "cucumber": "^7.0.0-rc.0",
+    "selenium-webdriver": "^4.0.0-rc-2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
